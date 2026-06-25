@@ -4,7 +4,7 @@
 
 ## 预览
 
-![Maison Noire](assets\preview.png)
+![Maison Noire](assets/preview.png)
 
 ## 功能特点
 
